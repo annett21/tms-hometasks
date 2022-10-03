@@ -1,0 +1,11 @@
+.venv
+.vscode/
+some_stuff
+Classes
+First_class
+matrix_4.py
+spiral_matrix.py
+.DS_Store
+
+
+
